@@ -99,3 +99,4 @@ Constraints:
 ```
 
 [Ruby solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GreaterNumberOfCandies.rb)
+------------------------------------------------------------------------
