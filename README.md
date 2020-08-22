@@ -1,18 +1,4 @@
 # File for [LeetCode](https://www.leetcode.com) Problems
 
-## Problem 123
-
-This is a leetcode problem
-
+## [Problem 1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) 
 ---
-
-```
-This is a box
-```
-
-- unordered list
-- unordered list
-
-1. ordered list
-2. ordered list
-
