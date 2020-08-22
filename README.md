@@ -98,4 +98,4 @@ Constraints:
 1 <= extraCandies <= 50
 ```
 
-(Ruby solution)[https://github.com/gberzuela/LeetCode-Practice/blob/master/GreaterNumberOfCandies.rb]
+[Ruby solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GreaterNumberOfCandies.rb)
