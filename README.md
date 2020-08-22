@@ -83,13 +83,13 @@ Example 2:
 Input: candies = [4,2,1,1,2], extraCandies = 1
 Output: [true,false,false,false,false] 
 Explanation: There is only 1 extra candy, therefore only kid 1 will have the greatest number of candies among the kids regardless of who takes the extra candy.
-
 ```
+
 Example 3:
 ```
 Input: candies = [12,1,12], extraCandies = 10
 Output: [true,false,true]
- ```
+```
 
 Constraints:
 ```
@@ -97,3 +97,5 @@ Constraints:
 1 <= candies[i] <= 100
 1 <= extraCandies <= 50
 ```
+
+(Ruby solution)[https://github.com/gberzuela/LeetCode-Practice/blob/master/GreaterNumberOfCandies.rb]
