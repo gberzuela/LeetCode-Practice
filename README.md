@@ -134,5 +134,5 @@ Constraints:
 1 <= nums[i] <= 100
 ```
 
-[Ruby solution]()
+[Ruby solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GoodPairs.rb)
 ------------------------------------------------------------------------
