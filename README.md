@@ -135,5 +135,6 @@ Constraints:
 ```
 
 [Ruby solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GoodPairs.rb)
+
 [Java solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GoodPairs.java)
 ------------------------------------------------------------------------
