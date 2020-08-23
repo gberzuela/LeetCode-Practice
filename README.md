@@ -32,7 +32,7 @@ Constraints:
 -10^6 <= nums[i] <= 10^6
 ```
 
-[Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/RunningSum.rb) 
+- [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/RunningSum.rb) 
 ------------------------------------------------------------------------
 ## Problem 771. Jewels and Stones
 
@@ -58,7 +58,7 @@ S and J will consist of letters and have length at most 50.
 The characters in J are distinct.
 ```
 
-[Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/Jewels%26Stones.rb)
+- [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/Jewels%26Stones.rb)
 ------------------------------------------------------------------------
 ## Problem 1431. Kids WIth the Greatest Number of Candies
 
@@ -98,7 +98,7 @@ Constraints:
 1 <= extraCandies <= 50
 ```
 
-[Ruby solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GreaterNumberOfCandies.rb)
+- [Ruby solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GreaterNumberOfCandies.rb)
 ------------------------------------------------------------------------
 ## Problem 1512. Number of Good Pairs
 
@@ -134,7 +134,29 @@ Constraints:
 1 <= nums[i] <= 100
 ```
 
-[Ruby solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GoodPairs.rb)
-
-[Java solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GoodPairs.java)
+- [Ruby solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GoodPairs.rb)
+- [Java solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GoodPairs.java)
 ------------------------------------------------------------------------
+## Problem 1108. Defanging an IP Address
+Given a valid (IPv4) IP address, return a defanged version of that IP address.
+
+A defanged IP address replaces every period "." with "[.]".
+
+Example 1:
+```
+Input: address = "1.1.1.1"
+Output: "1[.]1[.]1[.]1"
+```
+
+Example 2:
+```
+Input: address = "255.100.50.0"
+Output: "255[.]100[.]50[.]0"
+```
+
+Constraints:
+```
+The given address is a valid IPv4 address.
+```
+
+- [Ruby solution]()
