@@ -159,4 +159,5 @@ Constraints:
 The given address is a valid IPv4 address.
 ```
 
-- [Ruby solution]()
+- [Ruby solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/DefangingIP.rb)
+------------------------------------------------------------------------
