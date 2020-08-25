@@ -1,6 +1,6 @@
 # [LeetCode](https://www.leetcode.com) Problems done in Java/Ruby
 
-## Problem 1480. Running Sum of 1d Array (Easy)
+## Problem 1480. Running Sum of 1d Array (Easy - Array Practice)
 Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
 
 Return the running sum of nums.
@@ -33,7 +33,7 @@ Constraints:
 
 - [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/RunningSum.rb) 
 ------------------------------------------------------------------------
-## Problem 771. Jewels and Stones (Easy)
+## Problem 771. Jewels and Stones (Easy - Hash Practice)
 You're given strings J representing the types of stones that are jewels, and S representing the stones you have.  Each character in S is a type of stone you have.  You want to know how many of the stones you have are also jewels.
 
 The letters in J are guaranteed distinct, and all characters in J and S are letters. Letters are case sensitive, so "a" is considered a different type of stone from "A".
@@ -58,7 +58,7 @@ The characters in J are distinct.
 
 - [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/Jewels%26Stones.rb)
 ------------------------------------------------------------------------
-## Problem 1431. Kids WIth the Greatest Number of Candies (Easy)
+## Problem 1431. Kids WIth the Greatest Number of Candies (Easy - Iterating Practice)
 Given the array candies and the integer extraCandies, where candies[i] represents the number of candies that the ith kid has.
 
 For each kid check if there is a way to distribute extraCandies among the kids such that he or she can have the greatest number of candies among them. Notice that multiple kids can have the greatest number of candies.
@@ -97,7 +97,7 @@ Constraints:
 
 - [Ruby solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GreaterNumberOfCandies.rb)
 ------------------------------------------------------------------------
-## Problem 1512. Number of Good Pairs (Easy)
+## Problem 1512. Number of Good Pairs (Easy - Iterating Practice)
 Given an array of integers nums.
 
 A pair (i,j) is called good if nums[i] == nums[j] and i < j.
@@ -133,7 +133,7 @@ Constraints:
 - [Ruby solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GoodPairs.rb)
 - [Java solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GoodPairs.java)
 ------------------------------------------------------------------------
-## Problem 1108. Defanging an IP Address (Easy)
+## Problem 1108. Defanging an IP Address (Easy 0 String Manipulation)
 Given a valid (IPv4) IP address, return a defanged version of that IP address.
 
 A defanged IP address replaces every period "." with "[.]".
@@ -157,7 +157,7 @@ The given address is a valid IPv4 address.
 
 - [Ruby solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/DefangingIP.rb)
 ------------------------------------------------------------------------
-## Problem 1476. Subrectangle Queries (Medium)
+## Problem 1476. Subrectangle Queries (Medium - Class Practice)
 Implement the class SubrectangleQueries which receives a rows x cols rectangle as a matrix of integers in the constructor and supports two methods:
 
 1. updateSubrectangle(int row1, int col1, int row2, int col2, int newValue)
@@ -231,4 +231,20 @@ cols == rectangle[i].length
 ```
 
 - [Ruby solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/SubrectangleQueries.rb)
+------------------------------------------------------------------------
+## Problem 1. Two Sum (Easy - Logic Practice)
+
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+Example:
+```
+Given nums = [2, 7, 11, 15], target = 9,
+
+Because nums[0] + nums[1] = 2 + 7 = 9,
+return [0, 1].
+```
+
+- [Ruby Solution]()
 ------------------------------------------------------------------------
