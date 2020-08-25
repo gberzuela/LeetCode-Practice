@@ -272,5 +272,5 @@ Output: Node 4 from this list (Serialization: [4,5,6])
 Since the list has two middle nodes with values 3 and 4, we return the second one.
 ```
 
-[Ruby Solution]()
+[Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/876_MiddleofLL.rb)
 ------------------------------------------------------------------------
