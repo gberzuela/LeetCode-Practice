@@ -246,5 +246,5 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
 
-- [Ruby Solution]()
+- [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/1_TwoSum.rb)
 ------------------------------------------------------------------------
