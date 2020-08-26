@@ -31,7 +31,7 @@ Constraints:
 -10^6 <= nums[i] <= 10^6
 ```
 
-- [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/RunningSum.rb) 
+- [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/1480_RunningSum.rb) 
 ------------------------------------------------------------------------
 ## Problem 771. Jewels and Stones (Easy - Hash Practice)
 You're given strings J representing the types of stones that are jewels, and S representing the stones you have.  Each character in S is a type of stone you have.  You want to know how many of the stones you have are also jewels.
@@ -56,7 +56,7 @@ S and J will consist of letters and have length at most 50.
 The characters in J are distinct.
 ```
 
-- [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/Jewels%26Stones.rb)
+- [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/771_Jewels%26Stones.rb)
 ------------------------------------------------------------------------
 ## Problem 1431. Kids WIth the Greatest Number of Candies (Easy - Iterating Practice)
 Given the array candies and the integer extraCandies, where candies[i] represents the number of candies that the ith kid has.
@@ -95,7 +95,7 @@ Constraints:
 1 <= extraCandies <= 50
 ```
 
-- [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GreaterNumberOfCandies.rb)
+- [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/1431_GreaterNumberOfCandies.rb)
 ------------------------------------------------------------------------
 ## Problem 1512. Number of Good Pairs (Easy - Iterating Practice)
 Given an array of integers nums.
@@ -130,8 +130,8 @@ Constraints:
 1 <= nums[i] <= 100
 ```
 
-- [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GoodPairs.rb)
-- [Java Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GoodPairs.java)
+- [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/1512_GoodPairs.rb)
+- [Java Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/GoodPairs1512.java)
 ------------------------------------------------------------------------
 ## Problem 1108. Defanging an IP Address (Easy - String Manipulation)
 Given a valid (IPv4) IP address, return a defanged version of that IP address.
@@ -155,7 +155,7 @@ Constraints:
 The given address is a valid IPv4 address.
 ```
 
-- [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/DefangingIP.rb)
+- [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/1108_DefangingIP.rb)
 ------------------------------------------------------------------------
 ## Problem 1476. Subrectangle Queries (Medium - Class Practice)
 Implement the class SubrectangleQueries which receives a rows x cols rectangle as a matrix of integers in the constructor and supports two methods:
@@ -230,7 +230,7 @@ cols == rectangle[i].length
 0 <= col < cols
 ```
 
-- [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/SubrectangleQueries.rb)
+- [Ruby Solution](https://github.com/gberzuela/LeetCode-Practice/blob/master/1476_SubrectangleQueries.rb)
 ------------------------------------------------------------------------
 ## Problem 1. Two Sum (Easy - Logic Practice)
 
