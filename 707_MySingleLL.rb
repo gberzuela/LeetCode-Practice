@@ -7,7 +7,6 @@ class MyLinkedList
         attr_accessor :head
         def initialize()
             @head = nil
-            @size = 0
         end
     
     

@@ -26,7 +26,7 @@ def two_sum(nums, target)
     end
     
     for i in 0..nums.length
-        if( hash.key?(target - nums[i]) && hash[target-nums[i]] != i )
+        if( hash.key?(target-nums[i]) && hash[target-nums[i]] != i )
             return i, hash[target-nums[i]]
         end
     end

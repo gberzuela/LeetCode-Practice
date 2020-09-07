@@ -32,7 +32,7 @@ end
 =end
 
 =begin
-    Array method: put all nodes in an array and return the middle index
+Array method: put all nodes in an array and return the middle index
 def middle_node(head)
     nodeArr = Array.new
     index = 0
@@ -49,6 +49,8 @@ end
     # fast and slow pointer method: two pointers, one moving at twice the speed of another
     # fast pointer will reach the end while the slow pointer will reach the middle
     # return slow pointer
+    # Time: O(n)
+    # Space: O(1)
     def middle_node(head)
         slow, fast = head, head
         while( fast != nil && fast.next != nil )
