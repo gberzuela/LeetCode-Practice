@@ -13,6 +13,12 @@ Constraints:
 - -109 <= matrix[i][j] <= 109
 */
 
+/**
+ *
+ * @param {Number[][]} matrix
+ * @returns a matrix with the rows and columns from the input switched
+ */
+
 const transpose = (matrix) => {
   const result = new Array(matrix[0].length).fill(0).map(() => []);
 
